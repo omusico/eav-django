@@ -1,0 +1,1 @@
+A flexible Django application implementing the Entity-Attribute-Value model with Django. No patching required. Works with traditional RDBMS. Grew from an online shop project.
